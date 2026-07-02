@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+yfinance
+openpyxl
+python-dotenv
+sqlalchemy
+streamlit
+plotly
+pydantic
