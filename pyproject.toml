@@ -1,0 +1,13 @@
+[project]
+
+name="alphainvest-ai"
+
+version="0.1.0"
+
+description="Institutional Grade Equity Research Platform"
+
+requires-python=">=3.12"
+
+authors=[
+    {name="Abhilash Awasthi"}
+]
