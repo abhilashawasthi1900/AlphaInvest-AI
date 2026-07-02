@@ -1,0 +1,6 @@
+frameworks:
+  buffett:
+    roe_min: 15
+    debt_to_equity_max: 0.5
+    interest_coverage_min: 5
+    free_cash_flow_positive: true
